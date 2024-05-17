@@ -1,0 +1,54 @@
+body{
+    background-color:black;
+    height:100%;
+    width:100%;
+    
+    
+}
+.container{
+    display:grid;
+    justify-content:center ;
+    height:70%;
+    width:100%;
+    
+}
+
+.typing{
+    padding:10px ;
+    display:flex;
+    background-color:rgb(153, 146, 146);
+    color:white;
+    border-radius:10px;
+    margin-bottom: 10px;
+    
+}
+.radio{
+    display:grid;
+    
+    background-color:rgb(154, 147, 147);
+    color:white;
+    border-radius: 10px;
+    text-decoration: underline;
+
+
+
+    
+    
+}
+.image{
+    display:grid;
+    height:70%;
+    width:70%;
+    span:2/3;
+
+}
+.todo{
+
+    color:white;
+}
+.sun{
+    display:grid;
+    justify-content: end;
+
+
+}
